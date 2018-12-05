@@ -25,11 +25,13 @@
                 }
 
 3.  Penjelasan latihan Nomor 1:
+
         1. menambahkan url "/daftar-staf-farmasi" dan menu navigasi Daftar Staf Farmasi pada App.js
         2. menambahkan fungsi getAllStaffFarmasi() pada Appointment.js
         3. membuat komponen DaftarStafFarmasiRow.jsx (mirip dengan DaftarPasienRow, tetapi method pada constructor diganti dari getAllPasien() menjadi getAllStaffFarmasi())
 
 4. Penjelasan latihan nomor 2:
+
         1. menambahkan url "/tambah-hasil-lab/:id" pada App.js
         2. menambahkan fungsi tambahHasilLab pada Appointment.js
         3. menambahkan tombol Tambah Hasil Lab pada halaman Daftar Pasien 
